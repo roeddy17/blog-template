@@ -13,8 +13,7 @@
 
 </div>
 
-## 📌 Table Of Contents
-
+## 📌 SAFRUDIN LAMBAE
 1. [Demo](#-Demo)
 2. [CMS](#-Tina-CMS)
 3. [Features](#-Features)
